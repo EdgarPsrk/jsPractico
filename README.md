@@ -1,6 +1,10 @@
-# jsPractico
-crearemos un proyecto de js parctico
-para abrir la app desde tu navegador requeires usar un servidor
-para hacer uno facil, ingresa desde la consola estando en la carpeta del index.html
+# Frontend whit Bootstrap4
+- Crearemos un proyecto de js parctico.
+- Para abrir la app desde tu navegador requeires usar un servidor.
+Para hacer uno facil, ingresa desde la consola estando en la carpeta [jsPractico](./jsPractico/)
+```
 serve -l 3000
-compia la direccion que te proporciona y ahora todo funciona.
+```
+Compia la direccion que te proporciona y ahora todo funciona.
+
+- Tambien puedes configurar live server o alguna extencion que haga esta funcion.
